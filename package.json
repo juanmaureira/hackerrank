@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "dev": "nodemon beautifulDaysAtTheMovies.js"
+    "dev": "nodemon repeatedString.js"
   },
   "keywords": [],
   "author": "",

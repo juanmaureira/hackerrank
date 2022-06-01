@@ -15,7 +15,7 @@ const cutTheSticks = (arr) => {
     while(!finished){
 
         lengthOfCut = Math.min(...arr)
-        contCuts=0
+        contCuts = 0
 
         for(let i = 0; i < arr.length; i++){
 
